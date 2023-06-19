@@ -19,10 +19,14 @@ The project is developed by Dart programming language through the Flutter framew
 The objective of the project Daily online searching is to switch searching system that helps the client to order product and conjointly the sellers to manage the sell simply and paying the bill exploitation online devices like pc, Smartphone, Tablet, etc. Though some days ago, People are worried the shopping goes to market physically and buy the specified products or service by the exchange of money during a selected time. But nowadays, The act of shopping for products or services over the web. Online searching has grown up in quality over the years, mainly because people find it convenient and simple to bargain shop from the comfort of their home or office. one among the chief alluring components about internet shopping, especially during a get-away season, is it reduces the need to go to in long queues or search from store to store for a particular item. Also, the seller may not head to the precise location in an exceedingly particular period to sell their products. In online shopping sellers get their freedoms to sell their products 24/7 during a very week from anywhere.
 There are several objectives of the project. they're as follows: 
 
-![screenshort1](./assets/output/p1.png)
-![screenshort2](./assets/output/p2.png)
-![screenshort3](./assets/output/p3.png)
-![screenshort4](./assets/output/p4.png)
-![screenshort5](./assets/output/p5.png)
-![screenshort6](./assets/output/p6.png)
-![screenshort7](./assets/output/p7.png)
+![screenshort1](./assets/screenshot/sc3.png)
+![screenshort2](./assets/screenshot/sc2.png)
+![screenshort3](./assets/screenshot/sc1.png)
+![screenshort4](./assets/screenshot/sc6.png)
+![screenshort5](./assets/screenshot/sc7.png)
+![screenshort6](./assets/screenshot/sc5.png)
+![screenshort7](./assets/screenshot/sc11.png)
+![screenshort8](./assets/screenshot/sc10.png)
+![screenshort9](./assets/screenshot/sc4.png)
+![screenshort10](./assets/screenshot/sc9.png)
+![screenshort11](./assets/screenshot/sc8.png)
