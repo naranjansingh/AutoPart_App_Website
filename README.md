@@ -28,5 +28,4 @@ There are several objectives of the project. they're as follows:
 ![screenshort7](./assets/screenshot/sc11.jpg)
 ![screenshort8](./assets/screenshot/sc10.jpg)
 ![screenshort9](./assets/screenshot/sc4.jpg)
-![screenshort10](./assets/screenshot/sc9.jpg)
 ![screenshort11](./assets/screenshot/sc8.jpg)
