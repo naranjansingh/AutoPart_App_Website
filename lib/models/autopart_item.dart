@@ -24,31 +24,31 @@ var demoItems = [
   autopartItem1(
       id: 2,
       name: "Mic Helmet",
-      description: "1kg, Priceg",
+      description: "1pc, Priceg",
       price: 1499,
       imagePath: "assets/images/part_images/htl2.png"),
   autopartItem1(
       id: 3,
       name: "Safex Helmet",
-      description: "1kg, Priceg",
+      description: "1pc, Priceg",
       price: 499,
       imagePath: "assets/images/part_images/htl3.png"),
   autopartItem1(
       id: 4,
       name: "Helmet Pro",
-      description: "250gm, Priceg",
+      description: "1pc, Priceg",
       price: 699,
       imagePath: "assets/images/part_images/htl4.png"),
   autopartItem1(
       id: 5,
       name: "Green Hader",
-      description: "250gm, Priceg",
+      description: "1pc, Priceg",
       price: 369,
       imagePath: "assets/images/part_images/htl5.png"),
   autopartItem1(
       id: 6,
-      name: "Chikken",
-      description: "250gm, Priceg",
+      name: "Grey Buds Helmet",
+      description: "1pc, Priceg",
       price: 4.99,
       imagePath: "assets/images/part_images/htl6.png"),
 ];
